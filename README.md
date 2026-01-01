@@ -10,7 +10,7 @@ My Name is Adrian A! I'm an aspiring Software Enginner that is in search for a c
 - Java
 
 # Contact Information
-- Lets connect on my LinkedIn -> [Adrian's LinkedIn Profile](www.linkedin.com/in/adrianalamillavega)
+- Lets connect on my LinkedIn -> [Adrian's LinkedIn Profile](https://www.linkedin.com/in/adrianalamillavega/)
 
 # Other
 Just some off topic things about me.
